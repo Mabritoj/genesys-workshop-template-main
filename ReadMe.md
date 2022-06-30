@@ -20,4 +20,4 @@ Windows: `choco install hugo -confirm`
 
 Visit http://localhost:1313/ to see the site.
 
-Test
+Testing
