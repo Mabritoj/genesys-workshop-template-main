@@ -19,3 +19,5 @@ Windows: `choco install hugo -confirm`
 ### View site locally
 
 Visit http://localhost:1313/ to see the site.
+
+Test
